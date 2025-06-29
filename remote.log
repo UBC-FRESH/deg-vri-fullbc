@@ -1,0 +1,1 @@
+e7ec62cc-d471-4fe4-8bd4-a00831a49799 autoenable=true bucket=ubc-fresh-deg-vri-fullbc datacenter=US encryption=none host=object-arbutus.cloud.computecanada.ca name=arbutus-s3 port=80 protocol=https public=yes publicurl=https://object-arbutus.cloud.computecanada.ca/ubc-fresh-deg-vri-fullbc requeststyle=path storageclass=STANDARD type=S3 timestamp=1751224861s
